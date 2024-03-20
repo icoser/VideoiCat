@@ -13,7 +13,6 @@
  
 # 下载地址
 [夸克网盘下载地址](https://pan.quark.cn/s/caf3bebf42b8)
-[蓝奏云下载地址](https://qzx.lanzoul.com/iVd811ryiv1i)
 # 软件界面
 ![界面截图2](https://imgsrc.baidu.com/forum/pic/item/0b46f21fbe096b631dcf7e6b4a338744ebf8ac33.png)
 ![界面截图2](https://imgsrc.baidu.com/forum/pic/item/d6ca7bcb0a46f21f56267d68b0246b600c33aeff.png)
